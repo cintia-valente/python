@@ -1,3 +1,3 @@
 # Python
 
-Dezessete exercícios com programação orientada a objetos, cada um com testes unitários utilizando a biblioteca unittest.
+17 exercícios resolvidos utilizando paradigma orientado a objetos, com testes unitários resolvidos com a biblioteca unittest.
