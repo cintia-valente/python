@@ -1,6 +1,6 @@
 # Python
 
-17 exercícios resolvidos com programação orientada a objetos, com testes unitários realizados com a biblioteca unittest.
+17 exercícios resolvidos com <b>programação orientada a objetos</b>, com <b>testes unitários</b> realizados com a biblioteca <b>unittest</b>.
 
 
 # Execução
